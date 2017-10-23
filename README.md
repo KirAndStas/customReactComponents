@@ -1,6 +1,7 @@
 # Try Me FrontEnd
 
-This project war created with the aim to practice with different ReactJs feature.
+This project was created for practicing different ReactJs feature. 
+Now in repo is only trackbar.
 
 ---
 
